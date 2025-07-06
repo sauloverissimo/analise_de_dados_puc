@@ -42,10 +42,10 @@ Os dados foram obtidos da competição pública no Kaggle:
 
 ## Visualizações
 ### TIER LIST (LISTA DOS MELHORES)
-- ![Tier List](https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/TierList.png)
+![Tier List](https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/TierList.png)
 
 - ### PÓDIO DOS 3 MELHORES DA HISTÓRIA
-- ![Pódio](https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/Podio.png)
+![Pódio](https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/Podio.png)
 
 ## Execução
 O notebook principal está disponível em:
