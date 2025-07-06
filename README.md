@@ -41,8 +41,8 @@ Os dados foram obtidos da competição pública no Kaggle:
 - **Max Verstappen** ficou na 2ª posição, seguido por **Juan Manuel Fangio**
 
 ## Visualizações
-- `tierlist_pilotos_colab()` gera uma imagem estilo Tier List com cores e nomes organizados por ranking
-- `gráfico_podio()` mostra os três melhores colocados com degraus em altura e imagens dos pilotos
+- ![Tier List] (https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/TierList.png)
+- ![Pódio](https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/Podio.png)
 
 ## Execução
 O notebook principal está disponível em:
