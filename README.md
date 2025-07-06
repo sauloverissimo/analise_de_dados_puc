@@ -41,7 +41,10 @@ Os dados foram obtidos da competição pública no Kaggle:
 - **Max Verstappen** ficou na 2ª posição, seguido por **Juan Manuel Fangio**
 
 ## Visualizações
-- ![Tier List] (https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/TierList.png)
+### TIER LIST (LISTA DOS MELHORES)
+- ![Tier List](https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/TierList.png)
+
+- ### PÓDIO DOS 3 MELHORES DA HISTÓRIA
 - ![Pódio](https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/Podio.png)
 
 ## Execução
