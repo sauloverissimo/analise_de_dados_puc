@@ -48,11 +48,15 @@ Os dados foram obtidos da competição pública no Kaggle:
 ![Pódio](https://github.com/sauloverissimo/analise_de_dados_puc/blob/main/img/Podio.png)
 
 ## Execução
-O notebook principal está disponível em:
+Uma cópia do notebook principal está disponível em:
 ```
 https://raw.githubusercontent.com/sauloverissimo/analise_de_dados_puc/refs/heads/main/MVP_analise_de_dados_puc.ipynb
 ```
+
 * Google Colab
+```
+https://colab.research.google.com/drive/1b2YnvH_-wQ-eC0puzhyNqiWHhN8iOcnA?usp=sharing
+```
 
 ## Conclusão
 A análise validou as hipóteses propostas, entregando um modelo claro, visual e estatisticamente coerente para comparar grandes nomes da F1. A Tier List final e o pódio são uma representação eficaz do desempenho histórico dos pilotos com base em dados reais.
