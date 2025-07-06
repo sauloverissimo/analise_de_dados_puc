@@ -1,3 +1,4 @@
+![F1](https://www.pngall.com/wp-content/uploads/15/F1-Logo-PNG-Photo-180x180.png)
 # MVP - Análise de Dados PUC - Tier List de Pilotos de Fórmula 1
 
 Este projeto tem como objetivo aplicar os conhecimentos de análise de dados e visualização para comparar, de forma justa e estruturada, o desempenho histórico de pilotos de Fórmula 1 com base em dados públicos. 
